@@ -79,7 +79,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Tridib517/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/tridib371/count.svg?"  />
 </div>
 
 ###

@@ -40,11 +40,11 @@
 
 ## 🧠 Currently Learning & Exploring
 
-- 🔹 Frontend Frameworks (React, Vue)
-- 🔹 Backend Development (Node.js, Express)
-- 🔹 Databases (MySQL, MongoDB)
-- 🔹 Version Control with Git & GitHub
-- 🔹 Building real-world full-stack web apps
+🔹 Frontend Frameworks (React, Vue)
+🔹 Backend Development (Node.js, Express)
+🔹 Databases (MySQL, MongoDB)
+🔹 Version Control with Git & GitHub
+🔹 Building real-world full-stack web apps
 
 ---
 

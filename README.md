@@ -65,24 +65,19 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tridib371&" alt="tridib371" /></p>
 
 
-
 ---
+## Contribution Pacman:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tridib371/tridib371/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tridib371/tridib371/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tridib371/tridib371/output/pacman-contribution-graph.svg">
 </picture>
 
-
-###
----
+## Total Visitors:
 <br clear="both">
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/tridib371/count.svg?"  />
 </div>
 
-###
 
----
 

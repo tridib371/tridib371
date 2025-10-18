@@ -48,7 +48,7 @@
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tridib371&label=Profile%20views&color=0e75b6&style=flat" alt="tridib371" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tridib371" alt="tridib371" /></a> </p>
 
@@ -73,10 +73,13 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tridib371/tridib371/output/pacman-contribution-graph.svg">
 </picture>
 
-## Total Visitors:
-<br clear="both">
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tridib371/count.svg?"  />
+
+### 🧭 Total Visitors:
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tridib371&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github&logoColor=white&cacheSeconds=1800" alt="Profile Views" />
+</p>
+
 </div>
 
 

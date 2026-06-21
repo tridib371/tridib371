@@ -1,5 +1,5 @@
 <!-- ====== HEADER ====== -->
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:fc466b,100:3f5efb&height=200&section=header&text=Tridib%20Sarkar&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Networking%20Enthusiast&descSize=18&descAlignY=62" width="100%"  />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:fc466b,100:3f5efb&height=200&section=header&text=Tridib%20Sarkar&fontSize=56&fontColor=0:000000,100:1a0000&animation=twinkling&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Networking%20Enthusiast&descSize=18&descAlignY=62" width="100%"  />
 
 <div align="center">
 
@@ -112,7 +112,7 @@
 </picture>
 
 <!-- ====== FOOTER ====== -->
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:fc466b,100:3f5efb&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Let's%20build%20something%20great%20together&descSize=16&descAlignY=88" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:fc466b,100:3f5efb&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=0:000000,100:1a0000&animation=twinkling&fontAlignY=70&desc=Let's%20build%20something%20great%20together&descSize=16&descAlignY=88" width="100%" />
 
 </div>
 

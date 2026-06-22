@@ -126,9 +126,7 @@
 
 <!-- ====== CONNECT ====== -->
 ### 🔗 Let's Connect
-
 <div align="center">
-
 <a href="https://www.linkedin.com/in/tridib-sarkar-1ba27338b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -138,15 +136,21 @@
 <a href="mailto:22-46444-1@student.aiub.edu">
   <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
 </a>
-
-
+<a href="https://www.facebook.com/7tridib7" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/_tu_r_zo_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </div>
+
 
 ### 🧭 Total Visitors:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tridib371&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github&logoColor=white&cacheSeconds=1800" alt="Profile Views" />
 </p>
+
 
 ## Contribution Pacman:
 <picture>

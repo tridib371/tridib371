@@ -13,7 +13,7 @@
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
 ### 👋 About Me
-🎓 **B.Sc. in Computer Science & Engineering** — [American International University-Bangladesh (AIUB)](https://www.aiub.edu)  
+🎓 **B.Sc. in Computer Science & Engineering** - [American International University-Bangladesh (AIUB)](https://www.aiub.edu)  
 💼 Currently building full-stack products at **[Time and Technology Inc.](https://www.timeandtechnology.cloud/)**  
 🌐 **Cisco CCNA Certified**
 

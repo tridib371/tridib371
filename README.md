@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/tridib371">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=F59E0B&center=true&vCenter=true&width=700&lines=Crafting+code+like+poetry+%E2%9C%A8;Full-Stack+Web+Developer+%F0%9F%92%BB;Cisco+CCNA+Certified+%F0%9F%8C%90;Turning+ideas+into+impact+%F0%9F%9A%80" alt="typing-intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=F97316&center=true&vCenter=true&width=700&lines=Crafting+code+like+poetry+%E2%9C%A8;Full-Stack+Web+Developer+%F0%9F%92%BB;Cisco+CCNA+Certified+%F0%9F%8C%90;Turning+ideas+into+impact+%F0%9F%9A%80" alt="typing-intro" />
 </a>
 
 </div>

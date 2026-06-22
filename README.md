@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/tridib371">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=00F5FF&center=true&vCenter=true&width=620&lines=Crafting+code+like+poetry+%E2%9C%A8;Full-Stack+Web+Developer+%F0%9F%92%BB;Cisco+CCNA+Certified+%F0%9F%8C%90;Turning+ideas+into+impact+%F0%9F%9A%80" alt="typing-intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=900&color=F59E0B&center=true&vCenter=true&width=700&lines=Crafting+code+like+poetry+%E2%9C%A8;Full-Stack+Web+Developer+%F0%9F%92%BB;Cisco+CCNA+Certified+%F0%9F%8C%90;Turning+ideas+into+impact+%F0%9F%9A%80" alt="typing-intro" />
 </a>
 
 </div>
@@ -12,7 +12,7 @@
 <!-- ====== ABOUT ====== -->
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
-### 👋 About Me
+### 👋🏻 About Me
 🎓 **B.Sc. in Computer Science & Engineering** - [American International University-Bangladesh (AIUB)](https://www.aiub.edu)  
 💼 Currently building full-stack products at **[Time and Technology Inc.](https://www.timeandtechnology.cloud/)**  
 🌐 **Cisco CCNA Certified**

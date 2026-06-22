@@ -1,5 +1,5 @@
 <!-- ====== HEADER ====== -->
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:fc466b,100:3f5efb&height=200&section=header&text=Tridib%20Sarkar&fontSize=56&fontColor=0:000000,100:1a0000&animation=twinkling&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Networking%20Enthusiast&descSize=18&descAlignY=62" width="100%"  />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:130CB7,100:52E5E7&height=200&section=header&text=Tridib%20Sarkar&fontSize=56&fontColor=0:000000,100:1a0000&animation=fadeIn&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Networking%20Enthusiast&descSize=18&descAlignY=62" width="100%" />
 
 <div align="center">
 
@@ -62,22 +62,66 @@
 
 <!-- ====== ACTIVITY GRAPH ====== -->
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tridib371&bg_color=1a1b27&color=00f5ff&line=ff2e97&point=ffffff&area=true&hide_border=true" width="100%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tridib371&bg_color=1a1b27&color=0dfdbb&line=00f3ff&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 
 
-<!-- ====== CURRENTLY LEARNING ====== -->
-### 🧠 Currently Learning & Exploring
+<!-- ====== OPEN TO COLLABORATE ====== -->
 
-🔹 Advanced **React / Next.js** patterns & performance  
-🔹 Scalable backends with **NestJS, Express & Node.js**  
-🔹 **PostgreSQL & MongoDB** data modeling  
-🔹 Network automation & deeper **Cisco** routing/switching  
-🔹 Shipping real-world, production-grade full-stack apps  
+<div align="center">
 
+<h3>🫱🏻‍🫲🏼 Open to Collaboration</h3>
+
+<table>
+  <tr>
+    <td>⚛️</td>
+    <td><strong>Frontend</strong></td>
+    <td>Building sleek UIs with <strong>React / Next.js</strong></td>
+    <td><img src="https://img.shields.io/badge/Available-58A6FF?style=flat-square&logo=react&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td>🛠️</td>
+    <td><strong>Backend</strong></td>
+    <td>Crafting scalable APIs with <strong>NestJS, Express & Node.js</strong></td>
+    <td><img src="https://img.shields.io/badge/Available-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td>🗄️</td>
+    <td><strong>Database</strong></td>
+    <td>Designing schemas with <strong>PostgreSQL & MongoDB</strong></td>
+    <td><img src="https://img.shields.io/badge/Available-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><strong>Networking</strong></td>
+    <td>Network automation & <strong>Cisco</strong> routing/switching</td>
+    <td><img src="https://img.shields.io/badge/Available-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td>🚀</td>
+    <td><strong>Goal</strong></td>
+    <td>Shipping production-grade full-stack apps <strong>together</strong></td>
+    <td><img src="https://img.shields.io/badge/Let's%20Build-3FB950?style=flat-square&logoColor=white"/></td>
+  </tr>
+</table>
+
+<br/>
+
+> 💬 *I'm open to collaborating on real-world projects - whether it's a startup idea, open source contribution, or a freelance build. Let's create something meaningful.*
+
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
 
 
 <!-- ====== CONNECT ====== -->
@@ -92,7 +136,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="mailto:22-46444-1@student.aiub.edu">
-  <img src="https://img.shields.io/badge/AIUB%20Mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
 </a>
 
 
@@ -112,7 +156,7 @@
 </picture>
 
 <!-- ====== FOOTER ====== -->
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:fc466b,100:3f5efb&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=0:000000,100:1a0000&animation=twinkling&fontAlignY=70&desc=Let's%20build%20something%20great%20together&descSize=16&descAlignY=88" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:130CB7,100:52E5E7&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=0:000000,100:1a0000&animation=fadeIn&fontAlignY=70&desc=Let's%20build%20something%20great%20together&descSize=16&descAlignY=88" width="100%" />
 
 </div>
 
